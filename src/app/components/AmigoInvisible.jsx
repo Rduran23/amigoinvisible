@@ -223,7 +223,7 @@ function AmigoInvisible() {
                         }}
                         className="relative w-[150px] h-[150px] hover:cursor-pointer hover:scale-105 transition-transform group">
                           <img
-                            src="/gift.png"
+                            src="/gift.webp"
                             className="w-full h-full object-cover drop-shadow-[0_5px_5px_rgba(0,0,0,0.5)]  group-hover:drop-shadow-[0_5px_5px_rgba(155,0,0,0.5)]"
                             alt="gift"
         
